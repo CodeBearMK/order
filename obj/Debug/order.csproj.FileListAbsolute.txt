@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\order\bin\Debug\order.exe.config
+D:\cat32tw\Desktop\order\bin\Debug\order.exe
+D:\cat32tw\Desktop\order\bin\Debug\order.pdb
+D:\cat32tw\Desktop\order\obj\Debug\order.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\order\obj\Debug\order.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\order\obj\Debug\order.Form1.resources
+D:\cat32tw\Desktop\order\obj\Debug\order.Properties.Resources.resources
+D:\cat32tw\Desktop\order\obj\Debug\order.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\order\obj\Debug\order.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\order\obj\Debug\order.exe
+D:\cat32tw\Desktop\order\obj\Debug\order.pdb
